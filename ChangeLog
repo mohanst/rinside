@@ -1,3 +1,7 @@
+2025-09-07  Dirk Eddelbuettel  <edd@debian.org>
+
+	* .github/workflows/ci.yaml: Use r-ci action with embedded bootstrap
+
 2025-08-22  Dirk Eddelbuettel  <edd@debian.org>
 
 	* inst/examples/qt/qtdensity.pro: Add two commented-out lines which
